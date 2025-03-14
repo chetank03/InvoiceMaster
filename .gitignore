@@ -1,0 +1,33 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages and distributions
+*.egg/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Output directories
+output/
+
+# Temporary files
+tempCodeRunnerFile.py
