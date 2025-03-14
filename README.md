@@ -26,8 +26,8 @@ Developed by [Chetan Kodeboyina](https://github.com/your-github-username).
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/chetank03/InvoiceMaster
+   cd InvoiceMaster
    ```
 
 2. **Install Dependencies**
